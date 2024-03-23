@@ -12,6 +12,7 @@ const HomeScreen = (props) => {
        <Messages/>
        <HomeSearch/>
       </View>
+      
 
       
      
